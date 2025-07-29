@@ -1,8 +1,8 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Main {  // ✅ Make this the only public class
-    // Model class inside Main (not public)
+public class Main { 
+    
     static class Product {
         String name;
         double price;
