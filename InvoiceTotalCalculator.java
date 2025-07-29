@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Main {  // ✅ The only public class (required by online compilers)
+public class Main { 
     public static void main(String[] args) {
         List<Double> invoices = Arrays.asList(
             499.99,
