@@ -1,8 +1,8 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Main {  // ✅ Only public class allowed in online compilers
-    // ✅ Inner class for Employee
+public class Main { 
+    
     static class Employee {
         String name;
         String department;
